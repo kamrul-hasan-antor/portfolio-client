@@ -1,0 +1,27 @@
+.one {
+  margin: 0;
+  padding: 0;
+  background-color: #013a6b;
+  background-image: -webkit-linear-gradient(15deg, #ffb400 22%, #111 22%);
+  height: 100vh;
+}
+.logo {
+  height: 100vh;
+  padding: 40px 10px;
+  border-radius: 15%;
+}
+.text {
+  padding-left: 20px;
+}
+.icon {
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  right: 20px;
+  bottom: 0;
+  width: 55px;
+  height: 55px;
+  font-size: 30px;
+  color: #ffffff;
+  border-radius: 50%;
+}
