@@ -1,14 +1,15 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-
-import Home from "./components/Home/Home";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import MainPage from "./components/MainPage/MainPage/MainPage";
+import Navigation from "./components/Navigation/Navigation";
 function App() {
   return (
     <Router>
+      <Navigation></Navigation>
       <Switch>
-        <Route>
-          <Home></Home>
+        <Route exact path="/">
+          <MainPage></MainPage>
         </Route>
       </Switch>
     </Router>

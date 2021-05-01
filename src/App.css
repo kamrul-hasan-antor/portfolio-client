@@ -24,11 +24,12 @@
   z-index: 1;
   padding: 16px 70px 16px 35px;
   font-size: 15px;
-  font-weight: 600;
+  font-weight: 700;
   color: #fff;
   background-color: transparent;
 }
 .button:hover {
   color: #111;
   background-color: #ffb400;
+  transition: all 0.2s linear;
 }
