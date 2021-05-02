@@ -1,0 +1,21 @@
+.main_nav {
+  background-color: #111;
+  text-transform: uppercase;
+}
+.nav_brand {
+  font-size: 32px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.nav_brand:hover {
+  color: #00bfff;
+}
+.nav_items {
+  border-radius: 3px;
+  padding-right: 15px;
+  color: #ffffff !important;
+}
+.nav_items:hover {
+  color: #111 !important;
+  background-color: #00bfff;
+}

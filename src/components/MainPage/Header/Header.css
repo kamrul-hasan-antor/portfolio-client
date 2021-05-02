@@ -1,23 +1,24 @@
 .one {
   background-color: #111;
   width: 100%;
-  padding-top: 8%;
-  padding-bottom: 8%;
   height: 100%;
 }
-
+.row {
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
 .main_image {
   height: 100%;
-  width: 88%;
+  width: 92%;
   border-radius: 50%;
 }
 .main_text {
   color: #ffffff;
 }
 .main_text h1 {
-  font-size: 55px;
+  font-size: 52px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 900;
 }
 .main_text h1 span {
   color: #00bfff;
@@ -26,11 +27,12 @@
   padding-right: 50px;
 }
 .main_text button {
-  font-size: 18px;
+  border-radius: 35px;
   font-weight: 500;
+  font-size: 14px;
   text-transform: uppercase;
   color: white;
-  padding: 11px 45px;
+  padding: 11px 25px;
   background-color: transparent;
   border: 1px solid #00bfff;
   transition: all 0.2s linear;

@@ -18,7 +18,7 @@ const Home = () => {
             and user‑friendly experiences, I am passionate about building
             excellent website that improves the lives of those around me.
           </p>
-          <button>resume</button>
+          <button>download resume</button>
         </div>
       </div>
     </div>
