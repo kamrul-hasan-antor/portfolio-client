@@ -7,7 +7,7 @@ const Home = () => {
     <div className="one align-items-center">
       <div className="row w-100 align-items-center">
         <div className="col-12 col-md-5 text-center">
-          <img className="main_image" src={image} alt="" />
+          <img className="main_image img-fluid" src={image} alt="" />
         </div>
         <div className="col-12 col-md-7 main_text">
           <h1>
