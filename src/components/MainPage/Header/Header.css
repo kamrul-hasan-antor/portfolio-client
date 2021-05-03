@@ -16,7 +16,7 @@
   color: #ffffff;
 }
 .main_text h1 {
-  font-size: 52px;
+  font-size: 46px;
   text-transform: uppercase;
   font-weight: 900;
 }
@@ -31,11 +31,15 @@
   font-weight: 500;
   font-size: 14px;
   text-transform: uppercase;
-  color: white;
+  color: #ffffff;
   padding: 11px 25px;
   background-color: transparent;
   border: 1px solid #00bfff;
   transition: all 0.2s linear;
+}
+.main_text button a {
+  color: #ffffff;
+  text-decoration: none;
 }
 .main_text button:hover {
   color: #111;
