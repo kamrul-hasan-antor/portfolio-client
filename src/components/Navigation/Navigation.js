@@ -26,7 +26,7 @@ const Navigation = () => {
             <Nav.Link className="nav_items mr-2" href="#link">
               blogs
             </Nav.Link>
-            <Nav.Link className="nav_items mr-2" href="#link">
+            <Nav.Link className="nav_items mr-2" href="#contacts">
               contacts
             </Nav.Link>
           </Nav>
