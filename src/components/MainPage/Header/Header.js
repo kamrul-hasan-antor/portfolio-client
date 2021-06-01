@@ -11,7 +11,7 @@ const Home = () => {
         </div>
         <div className="col-12 col-md-7 main_text">
           <h1>
-            <span>i'm kamrul hasan antor.</span> <br /> web developer <br />
+            <span>i'm kamrul hasan.</span> <br /> web developer <br />
           </h1>
           <p>
             I'm a Bangladesh based front‑end developer focused on crafting clean
