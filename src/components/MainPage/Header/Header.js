@@ -1,10 +1,9 @@
 import React from "react";
 import image from "../../../images/image2.jpg";
 import "./Header.css";
-
 const Home = () => {
   return (
-    <div className="one align-items-center">
+    <div id="particles-js" className="one align-items-center">
       <div className="row w-100 align-items-center">
         <div className="col-12 col-md-5 text-center">
           <img className="main_image img-fluid" src={image} alt="" />
@@ -31,4 +30,5 @@ const Home = () => {
     </div>
   );
 };
+
 export default Home;
